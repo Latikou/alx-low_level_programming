@@ -16,6 +16,7 @@ int _strlen(char *s)
 		i++;
 	return (i);
 }
+
 /**
  * print_list - prints a linked lists
  * @h; pointer to firts node
